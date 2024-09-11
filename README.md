@@ -38,12 +38,9 @@ Make sure you have your **AWS Access Key**, **Secret Access Key**, and the **Reg
    ```python
    aws_access_key_id=<access_key>
    aws_secret_access_key=<secret_access>
-   region_name='<region>'
-```
+   region_name='<region>'```
 
 2. Run the script:
 
 ```python
-python eks_list_clusters.py
-
-```
+python eks_list_clusters.py```
