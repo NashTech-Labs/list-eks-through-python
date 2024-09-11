@@ -43,4 +43,4 @@ Make sure you have your **AWS Access Key**, **Secret Access Key**, and the **Reg
 2. Run the script:
 
 ```python
-python eks_list_clusters.py```
+python list_eks.py```
